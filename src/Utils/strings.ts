@@ -1,0 +1,15 @@
+export default {
+    cityNotFound: "City weather report not Found",
+    sunset: "Sunset",
+    sunrise: "Sunrise",
+    visibility: "Visibility",
+    windDirection: "Wind Direction",
+    pressure: "Pressure",
+    realFeel: "Real Feel",
+    rainChances: "Rain chances",
+    humidity: "Humidity",
+    windSpeed: "Wind speed",
+    setting: "Setting",
+    fahrenheit: "Fahrenheit",
+    celsius: "Celsius",
+}
