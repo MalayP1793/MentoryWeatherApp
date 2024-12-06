@@ -63,9 +63,9 @@ Integration Guide(https://reactnative.dev/docs/integration-with-existing-apps)
 
 # iOS Screenshot
 <div align="center">
+   <img src="screenshot/iOS/iOS_7.png" width="150px"</img> 
    <img src="/screenshot/iOS/iOS_1.png" width="150px"</img> 
    <img src="/screenshot/iOS/iOS_3.png" width="150px"</img> 
-   <img src="/screenshot/iOS/iOS_5.png" width="150px"</img> 
    <img src="/screenshot/iOS/iOS_6.png" width="150px"</img> 
-   <img src="screenshot/iOS/iOS_7.png" width="150px"</img> 
+   <img src="/screenshot/iOS/iOS_5.png" width="150px"</img> 
 </div>
