@@ -23,6 +23,7 @@ DerivedData
 **/.xcode.env.local
 */Podfile
 */Podfile.lock
+*.env
 # Android/IntelliJ
 #
 build/
